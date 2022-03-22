@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tszhh
-- 👀 I’m interested in everything;
+- Deep in the mud;
+- 👀 I’m interested in algorithms;
 - 🌱 I’m currently learning everything;
 - 💞️ I’m looking to collaborate on deez;
-- 📫 How to reach me;
 
 <!---
 tszhh/tszhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
