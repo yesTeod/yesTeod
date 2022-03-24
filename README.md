@@ -1,4 +1,6 @@
-- Student;
+- 🎓 Student;
+- Falling back on schedule as per usual;
+- Despair;
 - Deep in the mud;
 - Working on coursework in c#;
 - 👀 I’m interested in algorithms;
