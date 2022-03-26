@@ -1,4 +1,5 @@
 - 🎓 Student;
+- fuuuuuck
 - Falling back on schedule as per usual;
 - Despair;
 - Deep in the mud;
