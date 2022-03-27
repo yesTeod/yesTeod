@@ -1,7 +1,7 @@
 - 🎓 Student;
-- fuuuuuck
+- started scrolling github instead of social media;
+- fuuuuuck;
 - Falling back on schedule as per usual;
-- Despair;
 - Deep in the mud;
 - Working on coursework in c#;
 - 👀 I’m interested in algorithms;
