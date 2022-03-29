@@ -1,6 +1,7 @@
 - 🎓 Student;
 - started scrolling github instead of social media;
 - couple of things popping up;
+- confused;
 - Falling back on schedule as per usual;
 - Deep in the mud;
 - Working on coursework in c#;
