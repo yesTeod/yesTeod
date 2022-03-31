@@ -1,4 +1,5 @@
 - 🎓 Student;
+- ......;
 - started scrolling github instead of social media;
 - couple of things popping up;
 - confused;
