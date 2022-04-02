@@ -1,4 +1,5 @@
 - 🎓 Student;
+- YES LETS GO;
 - ......;
 - started scrolling github instead of social media;
 - couple of things popping up;
