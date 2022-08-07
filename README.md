@@ -2,10 +2,11 @@
   - websites;
   - school;
   - discord bot;
+  
+  - expanding league of legends summoner spell cds counter;  
 
 ## Finished
   - littl bit of school;
-  - league of legends summoner spell cds counter;  
   
 
 <!---
