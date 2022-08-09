@@ -6,7 +6,8 @@
   - expanding league of legends summoner spell cds counter;  
 
 ## Finished
-  - littl bit of school;
+  - little bit of school;
+  - coursework
   
 
 <!---
