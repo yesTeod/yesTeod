@@ -3,7 +3,7 @@
   - school;
   - discord bot;
   
-  - expanding league summoner spell cds counter;  
+  - expanding league summoner spell cds functionality;  
 
 ## Finished
   - little bit of school;
